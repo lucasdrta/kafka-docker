@@ -23,8 +23,7 @@ Em todos os sistemas operacionais é necessário abrir o programa para editar o 
 
 <br>
 
-If stoped container running, for run again, needs to run "down" command of docker-compose and run "up" command again
-
+Se o container for parado, para inicia-lo novamente, é necessario rodar o comando "down" do docker-compose e o comando "up" para inicia-lo.
 <br>
 <br>
 
